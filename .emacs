@@ -1,3 +1,0 @@
-.gitignore
-data/*
-__pycache__
